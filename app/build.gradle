@@ -1,7 +1,7 @@
 apply plugin: 'com.android.application'
-apply plugin: 'com.github.victimworm.android-maven'
+apply plugin: 'com.github.dcendents.android-maven'
 group='victimworm.dev'
-version='1.0'
+version='1.1'
 
 android {
     compileSdkVersion 27
